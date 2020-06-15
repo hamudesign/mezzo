@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Home"
+position: 1
+---
+
 # Mezzo
 Purely functional audio file parser
 
